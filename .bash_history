@@ -14,3 +14,7 @@ sudo apt install git-flow
 git flow version
 git flow init
 git status
+git restore .bash_history .codeoss/data/logs/20250507T231037/remoteagent.log
+git commit -m "Guardar cambios en .bash_history y remoteagent.log"
+git push origin main
+git flow init
