@@ -19,3 +19,4 @@ git commit -m "Guardar cambios en .bash_history y remoteagent.log"
 git push origin main
 git flow init
 git restore .bash_history
+git restore .bash_history
