@@ -1,0 +1,11 @@
+2025-05-07 23:10:37.636 [info] 
+
+
+
+
+2025-05-07 23:10:37.654 [info] Extension host agent started.
+2025-05-07 23:10:37.673 [info] Started initializing default profile extensions in extensions installation folder. file:///home/grtuiraprueba/.codeoss/extensions
+2025-05-07 23:10:37.689 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/grtuiraprueba/.codeoss/extensions
+2025-05-07 23:10:40.654 [info] [127.0.0.1][59a0b540][ManagementConnection] New connection established.
+2025-05-07 23:10:40.907 [info] [127.0.0.1][2fd4a651][ExtensionHostConnection] New connection established.
+2025-05-07 23:10:43.294 [info] [127.0.0.1][2fd4a651][ExtensionHostConnection] <1271> Launched Extension Host Process.
