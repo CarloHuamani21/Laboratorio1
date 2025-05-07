@@ -20,3 +20,15 @@ git push origin main
 git flow init
 git restore .bash_history
 git restore .bash_history
+git restore --source=HEAD .bash_history
+echo .bash_history >> .gitignore
+git add .gitignore
+git commit -m "Ignorar .bash_history en el repositorio"
+git push origin main
+git status
+git flow init
+git config --global user.name “CarloHuamani21”
+git config –global user.email “carlohuamani27@gmail.com”
+git config --global user.name "CarloHuamani21"
+git config --global user.email "carlohuamani27@gmail.com"
+git init
